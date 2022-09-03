@@ -18,7 +18,7 @@ body {
     padding: 1em 2em;
     font-size: 1em;
     transition: all 500ms;
-    border-radius: 2em;
+    <!-- border-radius: 2em for round; -->
 
 }
 
@@ -33,7 +33,7 @@ body {
 #user-email input[type="email"]{
     background-color:rgb(33, 33, 33);
     margin: 1em;
-    border-radius: 2em;
+    <!-- border-radius: 2em for round; -->
     border: 2px solid;
     padding: 1em 2em;
     font-size: 1em;
@@ -45,7 +45,7 @@ body {
 #password input[type="password"]{
     background-color:rgb(33, 33, 33);
     margin: 5%;
-    border-radius: 2em;
+    <!-- border-radius: 2em for round; -->
     border: 2px solid;
     padding: 1em 2em;
     font-size: 1em;

@@ -2,10 +2,10 @@
 Login page for users to access their accounts. 
 
 
-<img width="875" alt="Screen Shot 2022-09-03 at 10 47 20 AM" src="https://user-images.githubusercontent.com/36686123/188275801-523d7f9c-097d-4046-ad60-02b072e113dd.png">
+border-raidus: 2em;//remove if you'd like 
 
-border-raidus: 2em;
-<img width="592" alt="Screen Shot 2022-09-03 at 10 05 19 AM" src="https://user-images.githubusercontent.com/36686123/188287078-7684addd-b875-4a76-bee9-ef0a280c15bd.png">
+<img width="679" alt="Screen Shot 2022-09-04 at 12 22 34 PM" src="https://user-images.githubusercontent.com/36686123/188323359-efb2aba9-3b08-4dcb-96d2-09488283ce69.png">
+
 
 To-do List
 Add js authentiction sign up/login various ways gmail, facebook, etc. 

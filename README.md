@@ -4,7 +4,8 @@ Login page for users to access their accounts.
 
 border-raidus: 2em;//remove if you'd like 
 
-<img width="636" alt="Screen Shot 2022-09-04 at 12 29 45 PM" src="https://user-images.githubusercontent.com/36686123/188323602-6ed9dc9b-dcc3-452d-8557-c64387dfd31c.png">
+
+<img width="671" alt="Screen Shot 2022-09-04 at 4 44 50 PM" src="https://user-images.githubusercontent.com/36686123/188332780-46d8084e-8703-424d-a72d-35d6c79d4acc.png">
 
 
 
